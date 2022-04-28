@@ -77,7 +77,7 @@ function Home({name, setName, fetchQuestions}) {
 
 
         </div>
-        <img src = "/quiz.svg" className='banner' alt = "quiz img"></img>
+        
     </div>
   )
 }
