@@ -5,7 +5,7 @@ import { Link } from "react-router-dom"
 const Header = () => {
     return (
         <div className = "header">
-            <Link to = "/" className = "title">Quizland </Link>
+            <Link to = "/react-quiz" className = "title">Quizland </Link>
             <hr className='divider'></hr>
         </div>
         
